@@ -1,0 +1,12 @@
+{
+  "fileheader.customMade": {
+    "custom_string_obkoro1": "SPDX-License-Identifier: BSD-3-Clause\n",
+    "custom_string_obkoro1_copyright": "Copyright (c) 2026 Once Day <once_day@qq.com>, All rights reserved.\n",
+    "FilePath": "no item name", // 文件在项目中的相对路径 自动更新
+    "custom_string_obkoro3": "@Author: Once Day <once_day@qq.com>.",
+    "Date": "Do not edit", // 设置后默认设置文件生成时间
+    "custom_string_obkoro4": "@info: Encoder=utf-8, TabSize=4, Eol=\\n.\n",
+    "custom_string_obkoro5": "@Description:\n\n",
+    "custom_string_obkoro6": "@History:\n\n"
+  }
+}
