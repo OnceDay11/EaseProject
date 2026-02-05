@@ -8,5 +8,24 @@
     "custom_string_obkoro4": "@info: Encoder=utf-8, TabSize=4, Eol=\\n.\n",
     "custom_string_obkoro5": "@Description:\n\n",
     "custom_string_obkoro6": "@History:\n\n"
-  }
+  },
+  "fileheader.configObj": {
+    "autoAdd": false,
+    "autoAlready": true, // 默认开启
+    "supportAutoLanguage": [] // 设置过后只有该数组里面的文件 才会自动添加头部注释
+  },
+  // 排序头文件
+  "C_Cpp.clang_format_sortIncludes": true,
+  // 使用clang-tidy进行代码检查
+  "C_Cpp.codeAnalysis.clangTidy.enabled": false,
+  // 配置 clang-format 路径
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.formatting": "clangFormat",
+  "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+  // 配置 cmake 插件
+  "cmake.automaticReconfigure": false,
+  "cmake.configureOnEdit": false,
+  "cmake.configureOnOpen": false,
+  "cmake.ctest.testExplorerIntegrationEnabled": false,
+  "cmake.enableAutomaticKitScan": false
 }
